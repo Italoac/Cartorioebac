@@ -159,11 +159,11 @@ int main()
 			case 3:
 			deletar();
 			break;
-			
+
 			case 4:
 			printf("Obrigado por utilizar o sistema!\n");
 			return 0;
-			break;		
+			break;
 
 			default:
 			printf("Essa opção naõ está disponível! \n\n");
